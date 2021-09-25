@@ -1,0 +1,160 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  background-size: cover;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.img0 {
+  width: 10%;
+  margin: 20px;
+}
+
+.arrange1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #5763a5;
+  background-size: cover;
+  width: 70%;
+  padding: 20px;
+  border-radius: 10px;
+  overflow: auto;
+  margin: 10px;
+}
+
+.card1 {
+  background-color: #454f84;
+  background-size: cover;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.img1 {
+  width: 30%;
+}
+
+.card2 {
+  background-color: #f8fafc;
+  background-size: cover;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.form1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100%;
+  padding: 10px;
+}
+
+.img3 {
+  width: 10%;
+}
+
+.input1 {
+  outline: 0;
+  border-width: 0px;
+}
+
+.head1 {
+  color: #f8fafc;
+}
+
+.button {
+  background-color: #0b69ff;
+  color: #f8fafc;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+  border-width: 0px;
+  align-self: flex-end;
+}
+
+.card3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.card4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.para1 {
+  color: #f8fafc;
+  border-color: #f8fafc;
+  border-radius: 20px;
+  border-width: 1px;
+  border-style: solid;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.img4 {
+  background-color: #f8fafc;
+  width: 10%;
+  border-width: 1px;
+  border-color: #454f84;
+  border-style: solid;
+}
+
+.input2 {
+  background-color: #f8fafc;
+  width: 80%;
+  border-width: 1px;
+  border-color: #454f84;
+  border-style: solid;
+  padding: 4px;
+  outline: none;
+}
+
+.hori {
+  background-color: #5763a5;
+  width: 100%;
+}
+
+.arrange2 {
+  display: flex;
+  flex-direction: column;
+  background-color: #5763a5;
+  background-size: cover;
+  width: 70%;
+  padding: 20px;
+  border-radius: 10px;
+  overflow: auto;
+  margin: 10px;
+}
+
+.label {
+  color: #f8fafc;
+}
+
+.card5 {
+  align-self: flex-end;
+}
+
+.ul-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.card9 {
+  text-align: center;
+}
+
+.img12 {
+  width: 25%;
+}

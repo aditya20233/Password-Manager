@@ -1,0 +1,47 @@
+.li-list {
+  border-color: #7683cb;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+  align-items: center;
+  margin: 10px;
+}
+
+.para5 {
+  color: #f8fafc;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.img6 {
+  width: 30%;
+}
+
+.button2 {
+  cursor: pointer;
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.contu {
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #f8fafc;
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  border-radius: 30px;
+  text-align: center;
+  padding: 10px;
+}
+
+.img7 {
+  width: 20%;
+}
